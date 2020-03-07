@@ -3,3 +3,4 @@ Repositório de testes para vocês enviarem pull requests. Coloque seu nome no f
 
 - Gabriell
 - Lucas Bezerra
+- Wellington Rodrigues
